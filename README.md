@@ -4,6 +4,9 @@ This repo contains an example of a blockchain without a specific vendor written 
 
 This is a companion project to accompany the 2018 [Keyhole Software](https://keyholesoftware.com) White Paper, Blockchain for the Enterprise. There is a similar example companion project [written in C#](https://github.com/in-the-keyhole/khs-blockchain-csharp-example).
 
+## Tutorial
+https://keyholesoftware.com/2018/04/10/blockchain-with-java/
+
 ## Installation and running 
 
 `1.` Clone Repo  
@@ -18,4 +21,3 @@ This is a companion project to accompany the 2018 [Keyhole Software](https://key
 #### `nonce.NonceTest.java` - Mine a Hash using a Nonce Key
 
 #### `simple.chain.SimpleChainTest.java` - Create a block chain and add and order blocks
- 
